@@ -1,0 +1,6 @@
+{
+  "name": "Olá App",
+  "description": "Um simples aplicativo de boas-vindas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
